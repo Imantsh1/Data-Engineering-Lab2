@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "predmodel",
+			"path": "../../../predmodel"
+		},
+		{
+			"name": "plantvillage",
+			"path": "../../../archive/plantvillage"
+		},
+		{
+			"name": "plantvillage dataset",
+			"path": "../../../archive/plantvillage dataset"
+		}
+	],
+	"settings": {}
+}
